@@ -1,0 +1,110 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/wooaesil/Dropbox/UC Merced/Woo Research/Currently Writing/WooMonroe18/woomon/.texpadtmp/052520.aux
+The style file: apsr.bst
+Illegal, another \bibstyle command---line 183 of file /Users/wooaesil/Dropbox/UC Merced/Woo Research/Currently Writing/WooMonroe18/woomon/.texpadtmp/052520.aux
+ : \bibstyle
+ :          {apsr}
+I'm skipping whatever remains of this command
+Database file #1: ../WooRef.bib
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1247 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1247 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1247 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1247 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1247 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1247 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1283 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1283 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1283 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1287 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1287 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1287 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1319 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1319 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1319 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1319 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1319 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1319 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1352 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1352 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1352 of file apsr.bst
+Warning--can't use both volume and number fields in condorcet1785
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1371 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1371 of file apsr.bst
+Name 1 in "Elkins, Zachary, and Ginsburg, Tom and Melton, James" has a comma at the end for entry ccpdata
+while executing---line 1371 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1371 of file apsr.bst
+Name 1 in "Gehlbach, Scott, and Philip Keefer" has a comma at the end for entry gehlbach12
+while executing---line 1371 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1371 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1371 of file apsr.bst
+Name 1 in "Neto, Octavio Amorim, and Cox, Gary W and McCubbins, Mathew D." has a comma at the end for entry netoetal03
+while executing---line 1371 of file apsr.bst
+You've used 45 entries,
+            2874 wiz_defined-function locations,
+            882 strings with 10682 characters,
+and the built_in function-call counts, 147126 in all, are:
+= -- 23800
+> -- 1569
+< -- 1
++ -- 10851
+- -- 582
+* -- 12067
+:= -- 30162
+add.period$ -- 180
+call.type$ -- 45
+change.case$ -- 585
+chr.to.int$ -- 45
+cite$ -- 46
+duplicate$ -- 749
+empty$ -- 1489
+format.name$ -- 641
+if$ -- 26443
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 63
+newline$ -- 204
+num.names$ -- 498
+pop$ -- 255
+preamble$ -- 1
+purify$ -- 675
+quote$ -- 0
+skip$ -- 592
+stack$ -- 0
+substring$ -- 33043
+swap$ -- 124
+text.length$ -- 631
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 140
+warning$ -- 1
+while$ -- 1008
+width$ -- 0
+write$ -- 631
+(There were 30 error messages)
